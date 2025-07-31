@@ -263,12 +263,10 @@ This repository is provided under the [Apache 2.0 License](LICENSE). The SpokenW
 ## Citation
 If you use this repository, please cite the following:
 ```bibtex
-@misc{ohashi-2025-moshi-finetune,
-  title={Moshi/J-Moshi Finetuning},
-  author={Ohashi, Atsumoto and Iizuka, Shinya and Jiang, Jingjing and Higashinaka, Ryuichiro},
-  year={2025},
-  publisher={GitHub},
-  journal={GitHub repository},
-  howpublished = {\url{https://github.com/nu-dialogue/moshi-finetune}}
+@article{ohashi2025towards,
+    title={Towards a Japanese Full-duplex Spoken Dialogue System},
+    author={Ohashi, Atsumoto and Iizuka, Shinya and Jiang, Jingjing and Higashinaka, Ryuichiro},
+    journal={arXiv preprint arXiv:2506.02979},
+    year={2025}
 }
 ```

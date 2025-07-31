@@ -260,12 +260,10 @@ uv run -m moshi.server \
 ## Citation
 このリポジトリを使用した場合は，以下の文献を引用してください：
 ```bibtex
-@inproceedings{ohashi2025jmoshi,
-  title = "日本語 {F}ull-duplex 音声対話システムの試作",
-  author = "大橋 厚元 and 飯塚 慎也 and 姜 菁菁 and 東中竜一郎",
-  booktitle = "言語処理学会 第31回年次大会 発表論文集",
-  pages = "3164--3169",
-  year = "2025",
-  url = "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf"
+@article{ohashi2025towards,
+    title={Towards a Japanese Full-duplex Spoken Dialogue System},
+    author={Ohashi, Atsumoto and Iizuka, Shinya and Jiang, Jingjing and Higashinaka, Ryuichiro},
+    journal={arXiv preprint arXiv:2506.02979},
+    year={2025}
 }
 ```
