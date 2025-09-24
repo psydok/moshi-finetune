@@ -295,6 +295,7 @@ def postprocess_args(args: argparse.Namespace):
             "eval_steps is required when eval_data_files is provided."
         )
 
+    args.with_tracking = False
     if args.report_to is not None:
         args.with_tracking = True
 
