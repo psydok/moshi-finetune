@@ -18,6 +18,8 @@ def encode_as_pieces_wo_byte_fallback(sp: SentencePieceProcessor, text: str) -> 
     if not tokens:
         return []
 
+    text = " " + text
+
     tokens_wo_byte = []
     last_byte_tokens = []
     for token in tokens:
